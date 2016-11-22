@@ -5,6 +5,8 @@
 3. [CSS Modules](https://github.com/css-modules/css-modules)
 4. [Aphrodite](https://github.com/Khan/aphrodite)
 
+---
+
 - [Stylus](http://stylus-lang.com/)
 - [PostCSS](http://postcss.org/)
 - [Bootstrap](http://getbootstrap.com/)
